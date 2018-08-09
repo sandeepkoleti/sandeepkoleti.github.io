@@ -1,3 +1,3 @@
 # PythonProjects
 Hi!
-This repository contains the python projects that I would like to share to public
+This repository contains the data science and machine learning projects that I developed using the Python programming language and its open source librariers.
